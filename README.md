@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center"> 
+<h2>Hi there 👋<h2>
+</p>
 
 <!--
 **MustardChef/MustardChef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=mustardchef" />
+</p>
 
-  
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MustardChef/count.svg" />
