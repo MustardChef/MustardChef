@@ -1,7 +1,8 @@
 <img align="left" src="https://github.com/MustardChef/LunaStream/raw/master/Screenshots/Logo2.gif?raw=true" style="width: 170px;"/>
 
 
-# MustardChef's Github Profile <img src="https://profile-counter.glitch.me/MustardChef/count.svg" />
+# MustardChef's Github Profile 
+<img src="https://profile-counter.glitch.me/MustardChef/count.svg" style="width: 180px;"/>
 
 <a href="https://skillicons.dev">
  <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,py,cs,cpp,css,html,githubactions,r&perline=7"alt="My Skills"/> 
