@@ -9,7 +9,7 @@
 # MustardChef's Github Profile 
 
 <a href="https://skillicons.dev">
- <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,py,cs,cpp,css,html,githubactions,r&perline=7"alt="My Skills"/> 
+ <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,js,github,java,kotlin,py,cs,cpp,css,html,githubactions,r&perline=7"alt="My Skills"/> 
 </a>
 
 </br>
