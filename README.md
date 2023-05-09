@@ -1,3 +1,5 @@
+**Visitor Count:**
+
 <img src="https://profile-counter.glitch.me/MustardChef/count.svg" style="width: 180px;"/>
 
 <img align="left" src="https://github.com/MustardChef/LunaStream/raw/master/Screenshots/Logo2.gif?raw=true" style="width: 170px;"/>
