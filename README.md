@@ -20,3 +20,7 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MustardChef&theme=redical&hide_border=true" style="width: 890px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustardChef&theme=dark&hide_border=true" />
 </p>
+
+<p align="center">
+<img src="https://metrics.lecoq.io/MustardChef?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon" />     
+</p>
