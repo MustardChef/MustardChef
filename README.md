@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/MustardChef/count.svg" style="width: 180px;"/>
 </p>
 
-<img align="left" src="https://github.com/MustardChef/MustardChef/blob/main/LogoKita.gif?raw=true" style="width: 170px;"/>
+<picture><img align="left" src="https://github.com/MustardChef/MustardChef/blob/main/LogoKita.gif?raw=true" style="width: 170px;"/></picture>
 
 
 # MustardChef's Github Profile 
