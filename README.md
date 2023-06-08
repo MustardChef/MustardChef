@@ -11,8 +11,9 @@
 <a href="https://skillicons.dev">
  <picture><img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,js,github,java,kotlin,py,cs,cpp,css,html,githubactions,r&perline=7"alt="My Skills"/></picture> 
 </a>
-<br>
-<picture><img src="https://github-readme-stats.vercel.app/api?username=mustardchef&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustardChef&langs_count=8&layout=compact&theme=radical&hide_border=true" style="width: 390px;"/></picture>
+<br/>
+<br/>
+<picture><img src="https://github-readme-stats.vercel.app/api?username=mustardchef&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=46% height=46%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustardChef&langs_count=8&layout=compact&theme=radical&hide_border=true" width=35% height=35%/></picture>
 
 <picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=MustardChef&theme=redical&hide_border=true" style="width: 890px;"/></picture>
 
