@@ -13,7 +13,7 @@
 </a>
 <br/>
 <br/>
-<picture><img src="https://github-readme-stats.vercel.app/api?username=mustardchef&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=56% height=56%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustardChef&langs_count=8&layout=compact&theme=radical&hide_border=true" width=45% height=45%/></picture>
+<picture><img src="https://github-readme-stats.vercel.app/api?username=mustardchef&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustardChef&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40% height=40%/></picture>
 
 <picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=MustardChef&theme=redical&hide_border=true" style="width: 890px;"/></picture>
 
