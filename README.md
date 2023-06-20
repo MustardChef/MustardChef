@@ -1,5 +1,5 @@
 <p align="center"> 
-  Visitor Count:<br>
+  Visitor Count: <br> <b><i>(from 13/01/23 Onwards)<b><i> <br><br>
   <img src="https://profile-counter.glitch.me/MustardChef/count.svg" style="width: 180px;"/>
 </p>
 
