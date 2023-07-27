@@ -8,7 +8,7 @@
 
 # MustardChef's Github Profile 
 
-#### Self-Proclaimed Programmer and Professional Procrastinator
+#### Self-Proclaimed Programmer
 
 ---
 <a href="https://skillicons.dev">
