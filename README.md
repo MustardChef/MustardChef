@@ -15,9 +15,6 @@
  <picture><img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,js,github,java,kotlin,py,cs,cpp,css,html,githubactions,r&perline=7"alt="My Skills"/></picture> 
 </a>
 <br/>
-
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mustardchef&hide=B,B%2B&hide_contributor_rank=false&limit=5)
-
 <br/>
 <picture><img src="https://github-readme-stats.vercel.app/api?username=mustardchef&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustardChef&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture>
 
