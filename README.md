@@ -11,6 +11,6 @@
 </a><br/><br/>
 <p align="center"> 
   <picture><img <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=MustardChef&theme=redical&hide_border=true" style="width: 890px;"/></picture>
-  <picture><img <img align="top" src="https://github-readme-stats.vercel.app/api?username=mustardchef&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustardChef&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture>
+  <picture><img <img align="top" src="./profile/stats.svg" width=53% height=53%/></picture><picture><img align="top" src="./profile/top-langs.svg" width=40.5% height=40.5%/></picture>
 </p>
 
