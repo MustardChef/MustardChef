@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">MustardChef's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 18795, Total Commits  : 11915, Total PRs: 83, Total Issues: 41, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 18796, Total Commits  : 11915, Total PRs: 83, Total Issues: 41, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 47.972744384069635;
+        stroke-dashoffset: 47.97273258973946;
       }
     }
   
