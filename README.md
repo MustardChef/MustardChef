@@ -1,7 +1,7 @@
 <picture><img align="left" src="https://github.com/MustardChef/MustardChef/blob/main/Logo.gif?raw=true" width=20% height=20%></picture>
 
 
-<h1><i><b> MustardChef's Github Profile </b></i></h1> 
+<h1><b> MustardChef</b></h1> 
 <h4><i> Programmer. Software and Hardware Enthusiast. </i></h4>
 
 <hr>
